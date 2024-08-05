@@ -58,7 +58,7 @@
         
         <div>
           <h2 class="font-bold text-3xl">Our Mission</h2>
-          <p class="">Our target is getting the attention of the floki army, let them know it has a younger brother here.</p>
+          <p class="">Introducing: $Fight For America, the meme coin inspired by the iconic Trump meme. Combining patriotic humor with advanced blockchain technology, $Fight For America offers fast, secure transactions and an engaging, community-driven experience. Join us and be part of a lively community where memes and decentralized finance unite with $Fight For America!</p>
           <ul class="grid gap-4 mt-8">
             <li class=" text-base">✅ Based and safe Team</li>
             <li class=" text-base">✅ Low Tax Mechanism: 0/0</li>
